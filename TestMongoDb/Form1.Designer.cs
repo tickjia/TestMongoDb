@@ -48,7 +48,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(249, 10);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(58, 28);
+            this.button1.Size = new System.Drawing.Size(58, 57);
             this.button1.TabIndex = 0;
             this.button1.Text = "追加";
             this.button1.UseVisualStyleBackColor = true;
@@ -103,7 +103,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(249, 47);
+            this.button3.Location = new System.Drawing.Point(313, 41);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 3;
